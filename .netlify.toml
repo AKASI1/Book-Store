@@ -1,7 +1,7 @@
 # api redirect.
 [[redirects]]
   from = "/api/*"
-  to = "http://X.X.X.X/api/:splat"
+  to = "https://gutendex.com/:splat"
   status = 200
 # SPA router support.
 [[redirects]]
