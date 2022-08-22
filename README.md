@@ -5,7 +5,7 @@ Full responsive website displaying books fetched from Gutendex using react app.
 
 ## Getting Started
 
-This project require some prequesites and dependenscies to be installed, you can find the instructions below
+This project require some dependenscies to be installed, you can find the instructions below
 
 > To get a local copy, follow these simple steps :
 
