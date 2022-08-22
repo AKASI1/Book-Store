@@ -16,7 +16,9 @@ const BookList = () => {
 
   const [page, setPage] = useState(1);
   const { data, loading, error } = useFetch(
-    `/books/?page=${page}&search=${location.state ? location.state : ""}`
+    `https://gutendex.com/books/?page=${page}&search=${
+      location.state ? location.state : ""
+    }`
   );
 
   const books = data?.results;

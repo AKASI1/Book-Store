@@ -6,7 +6,7 @@ import BookCard from "./BookCard";
 
 const PopularBooks = () => {
   const navigate = useNavigate();
-  const { data, loading, error } = useFetch("/books");
+  const { data, loading, error } = useFetch("https://gutendex.com//books");
   const books = data?.results.slice(0, 6);
 
   return (
