@@ -1,5 +1,5 @@
 # Book-Store
-Full responsive website displaying books fetched from Gutendex using react app.
+Full responsive website displaying books fetched from Gutendex using reactjs with tailwind.
 
 <!-- GETTING STARTED -->
 
