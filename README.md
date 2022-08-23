@@ -29,7 +29,7 @@ This project require some dependenscies to be installed, you can find the instru
    npm install
    ```
    
-3. install dependenscies
+3. Start application
 
    ```bash
    npm run start
