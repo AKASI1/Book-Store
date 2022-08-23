@@ -1,6 +1,8 @@
 # Book-Store
 Full responsive website displaying books fetched from Gutendex using ReactJs with TypeScript and Tailwind.
 
+![Uploading Screen Shot 2022-08-23 at 6.58.46 PM.png…]()
+
 <!-- GETTING STARTED -->
 
 ## Getting Started
